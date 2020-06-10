@@ -4,9 +4,7 @@
 
 This notebook  is about predicting the housing prices for King County. It contains a data science lyfe cycle  with data cleaning, feature engingeering and model selection and prediction. 
 
-![alt text][logo]
-
-[logo]:https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.marriott.de%2Fhotel-search%2Fseattle.hotels.washington.united-states.travel%2F&psig=AOvVaw0Uz07bIVYi0GhkDHaUGQ2g&ust=1591871647634000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC6rbaG9-kCFQAAAAAdAAAAABAD
+![alt text](https://cache.marriott.com/marriottassets/destinations/hero/seattle-destination.jpg?interpolation=progressive-bilinear&resize=2880:960 "Seattle view")
 
 ## Data Cleaning
 
