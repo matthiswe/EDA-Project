@@ -4,6 +4,8 @@
 
 This notebook  is about predicting the housing prices for King County. It contains a data science lyfe cycle  with data cleaning, feature engingeering and model selection and prediction. 
 
+In this repository the file Project EDA.ipynb contains all the code for this project. King_County_Housing_prices_dataset.csv contains the data used for this project. EDA - Project Matthis We.pdf contains a presentation with a short overview of my findings. 
+
 ![alt text](https://cache.marriott.com/marriottassets/destinations/hero/seattle-destination.jpg?interpolation=progressive-bilinear&resize=2880:960 "Seattle view")
 
 ## Data Cleaning
